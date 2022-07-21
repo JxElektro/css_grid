@@ -1,7 +1,4 @@
-![LarnU](../_src/assets/00-PrimerosPasos/logo_LarnU.png)
 
-<br>
-<br>
 
 # Desafío: css_grid
 
